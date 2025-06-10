@@ -8,6 +8,7 @@ category: blog
 Le contenu de ma note ici.
 
 A voir : https://emmatheeng.github.io/projects/blog_setup/blog-setup.html
+        *https://github.com/emmatheeng/emmatheeng.github.io
 
 
 
